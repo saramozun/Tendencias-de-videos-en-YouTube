@@ -9,7 +9,7 @@ The analysis focused on:
 - Identifying the most frequent trending categories
 - Analyzing the geographic distribution of trends
 - Observing the specific behavior of the United States compared to other regions
-- Dashboard: https://public.tableau.com/app/profile/julia.ochante/viz/Proyecto12_17522707983480/Dashboard1?publish=yes
+- Dashboard: https://public.tableau.com/views/ProyectoSprint12Tripleten/DashboardTendencias?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📝Key Questions & Findings
 ### 1. Which video categories trended most frequently?
