@@ -56,5 +56,5 @@ Some categories gained or lost prominence on specific dates, often linked to rea
 - Interactive dashboards for trend visualization
 
 ## 🔎 Sources & References:
-YouTube Trending Datasets
-Tableau Public
+- YouTube Trending Datasets
+- Tableau Public
